@@ -63,3 +63,16 @@ form {
     font-size: 2em;
   }
 }
+
+.output {
+  max-width: 80%;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  background: white;
+  padding: 15px;
+}
+
+.d-none {
+  display: none;
+}
